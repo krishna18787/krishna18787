@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Krishna Kr Verma
 
-<!--
-**krishna18787/krishna18787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Senior Android & React Native Developer
 
-Here are some ideas to get you started:
+🔹 10+ Years Experience  
+🔹 Clean Architecture | MVVM | MVP | MVC  
+🔹 Kotlin | Java | React Native | Flutter  
+🔹 Microservices | CI/CD | DevOps  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- Android (Kotlin, Java)
+- Jetpack Compose
+- React Native
+- Flutter
+- Node.js
+- AWS
+- Docker
+
+---
+
+## 📊 GitHub Stats
+
+![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna18787&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/krishna-kumar-verma/
+- Email: krishna18787@gmail.com
