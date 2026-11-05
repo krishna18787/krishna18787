@@ -2,8 +2,8 @@
 
 ## 🚀 Senior Android & React Native Developer
 
-🔹 10+ Years Experience  
-🔹 Clean Architecture | MVVM | MVP | MVC  
+🔹 12+ Years Experience  
+🔹 Clean Architecture | MVVM | Jetpack Compose| MVP | MVC  
 🔹 Kotlin | Java | React Native | Flutter  
 🔹 Microservices | CI/CD | DevOps  
 
@@ -27,16 +27,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna18787&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/krishna-kumar-verma/
 - Email: krishna18787@gmail.com
+- Contact : 9818612722
 
   # 💻Tech Stack
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
